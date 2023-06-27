@@ -368,4 +368,3 @@ Tarawneh M., Embarak O. Hybrid approach for heart disease prediction using data 
 > WALJEE AK, HIGGINS PD. Machine Learning in Medicine: A Primer for Physicians. Am J Gastroenterol. 2010;105(6):1224-6. doi: 10.1038/ajg.2010.173.
 > 
 > WORLD HEALTH ORGANIZATION. Cardiovascular diseases (CVDs). [S. l.: s. n.], 2021. Disponível em: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds).
-
